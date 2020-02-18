@@ -1,6 +1,6 @@
 ## Yijia Hao
 
-If you are interested, you can find my [CV] here(https://github.com/Echar-HAO/Yijia-Hao/edit/master/README.md).
+If you are interested, you can find my [CV](https://github.com/Echar-HAO/Yijia-Hao/edit/master/README.md) here.
 
 Whenever you commit to this repository, GitHub Pages will run to rebuild the pages in your site, from the content in your Markdown files.
 
